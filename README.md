@@ -1,4 +1,4 @@
-<h1>Brain-Tumor-Data-Analysis</h1>
+<h1>Brain Tumor Data Analysis</h1>
 <p>This dataset consists of 1,000 entries, each representing a case of brain tumor. The dataset includes the following attributes:
 <ul>
 	<li> Tumor Type: The type of brain tumor (e.g., Oligodendroglioma, Ependymoma, Meningioma).
